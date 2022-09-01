@@ -4,7 +4,6 @@
 
 
 
-<a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
 
 
 
