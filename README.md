@@ -12,7 +12,7 @@
 
 
 
-![](assets/Bottom_up.svg)
+
 
 <!--   my-icons -->
 <p align="center">
