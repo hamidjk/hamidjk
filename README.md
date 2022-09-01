@@ -1,4 +1,16 @@
-♥ Hi Wellcome ♥
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Hamid+JK;+Welcome+to+My+Profile!;)](https://git.io/typing-svg
+
+
+
+
+<a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
+
+
+
+
+
+
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jaesonking72/)](https://www.instagram.com/jaesonking72)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hamidjk.business@gmail.com)](mailto:hamidjk.business@gmail.com)
 
@@ -13,8 +25,7 @@
 
 
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Hamid+JK;+Welcome+to+My+Profile!;)](https://git.io/typing-svg)
+)
 
 
 
