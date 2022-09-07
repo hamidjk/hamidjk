@@ -57,4 +57,4 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hamidjk)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hamidjk=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
