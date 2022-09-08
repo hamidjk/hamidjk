@@ -58,3 +58,13 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hamidjk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=linux,git,dart,flutter,py,vscode,xd,stackoverflow,&theme=light)](https://skillicons.dev)
