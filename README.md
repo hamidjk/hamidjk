@@ -65,6 +65,6 @@
 
 
 
+#### **My Experiences** 💞️✨💞️:
 
-
-[![My Skills](https://skillicons.dev/icons?i=linux,git,dart,flutter,py,vscode,xd,stackoverflow,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,dart,flutter,py,vscode,xd,stackoverflow,firebase,gitlab,twitter,cpp,django&theme=light)](https://skillicons.dev)
