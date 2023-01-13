@@ -11,34 +11,6 @@
 
 
 
-[![Hamidjk's github stats](https://github-readme-stats.vercel.app/api?username=Hamidjk&show_icons=true&theme=gotham)](https://github.com/Hamidjk/github-readme-stats)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
