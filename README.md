@@ -4,15 +4,14 @@
 
 
 
-
-
-
-
-
-
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jaesonking72/)](https://www.instagram.com/jaesonking72)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hamidjk.business@gmail.com)](mailto:hamidjk.business@gmail.com)
 
+
+
+
+
+[![Hamidjk's Github Stats](https://github-readme-stats.vercel.app/api?username=hamidjk&count_private=true&theme=default&show_icons=true)](https://github.com/hamidjk)
 
 
 
