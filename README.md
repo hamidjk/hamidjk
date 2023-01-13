@@ -11,7 +11,7 @@
 
 
 
-[![Hamidjk's github stats](https://github-readme-stats.vercel.app/api?username=hamidjk&show_icons=true&theme=gotham)](https://github.com/hamidjk/github-readme-stats)
+[![Hamidjk's github stats](https://github-readme-stats.vercel.app/api?username=Hamidjk&show_icons=true&theme=gotham)](https://github.com/Hamidjk/github-readme-stats)
 
 
 
