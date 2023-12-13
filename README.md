@@ -30,4 +30,4 @@
 
 #### **My Experiences** 💞️✨💞️:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,dart,flutter,py,vscode,xd,stackoverflow,firebase,js,bash,gitlab,cpp,django&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,dart,flutter,py,vscode,xd,stackoverflow,firebase,js,bashscript,gitlab,cpp,django&theme=light)](https://skillicons.dev)
